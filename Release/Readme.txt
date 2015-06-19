@@ -1,0 +1,1 @@
+This folder contains VI Package Manager for NI SPI API (SE) releases
